@@ -1,6 +1,6 @@
 # GetContact Contact Name Checker
 
-Script sederhana berbasis CLI untuk memeriksa daftar nama atau *tag* yang diberikan orang lain pada suatu nomor WhatsApp menggunakan API/Web GetContact. Cocok untuk kebutuhan *stalking* aman atau sekadar tahu bagaimana orang lain menyimpan nomor kita.
+Script sederhana berbasis CLI untuk memeriksa daftar nama atau *tag* yang diberikan orang lain pada suatu nomor WhatsApp menggunakan API/Web GetContact. Cocok untuk kebutuhan *stalking* aman atau sekadar ingin tahu bagaimana orang lain menyimpan nomor kita dengan nama seperti apa.
 
 ### 🔥 Fitur
 * Memeriksa semua *tags* (nama yang disimpan) dari nomor target.
